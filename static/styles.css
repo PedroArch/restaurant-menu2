@@ -1,0 +1,11 @@
+body {
+  background-color: #FFFFFF;
+  background-image: none;
+}
+
+.restaurant-name {
+  text-decoration: none;
+  color: black;
+  text-align: center
+  left: 50
+}
