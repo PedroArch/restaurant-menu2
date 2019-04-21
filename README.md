@@ -33,7 +33,7 @@ pip install sqlalchemy
 
 
 
-#### RUNNING THE PROGRAM
+## Running the program
 
 1. Create database and tables running
 ```sh
@@ -43,6 +43,11 @@ python database_setup.py
 2. Fill the database running
 ```sh
 python addrestaunrats.py
+
+```
+3. Load the web server
+```sh
+python main.py
 ```
 
 3. Access your browser in <http://localhost:5000/>
